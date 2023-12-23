@@ -1,0 +1,12 @@
+# depslib dependency file v1.0
+1703343991 source:c:\users\elkha\onedrive\desktop\yes\main.cpp
+	<iostream>
+	<map>
+	<string>
+	<iomanip>
+	<ctime>
+	<fstream>
+	<sstream>
+	<stdlib.h>
+	<cstdio>
+
